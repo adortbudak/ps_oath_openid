@@ -1,5 +1,6 @@
 ﻿/// <autosync enabled="true" />
 /// <reference path="../app/app.js" />
+/// <reference path="../app/login/loginController.js" />
 /// <reference path="../app/pictures/pictureCreateController.js" />
 /// <reference path="../app/pictures/pictureIndexController.js" />
 /// <reference path="../app/trips/tripAlbumController.js" />
