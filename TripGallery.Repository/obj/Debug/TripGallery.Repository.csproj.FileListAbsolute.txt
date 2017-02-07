@@ -1,0 +1,9 @@
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\bin\Debug\TripGallery.Repository.dll
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\bin\Debug\TripGallery.Repository.pdb
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.dll
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.pdb
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.csprojResolveAssemblyReference.cache

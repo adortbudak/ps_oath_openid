@@ -1,0 +1,5 @@
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.dll
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.pdb
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.dll
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.pdb
+C:\Users\adortbud\Desktop\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.csprojResolveAssemblyReference.cache
