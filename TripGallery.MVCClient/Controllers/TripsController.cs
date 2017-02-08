@@ -26,8 +26,10 @@ namespace TripGallery.MVCClient.Controllers
             {
                 var lstTripsAsString = await rspTrips.Content.ReadAsStringAsync().ConfigureAwait(false);
 
-                var vm = new TripsIndexViewModel();
-                vm.Trips = JsonConvert.DeserializeObject<IList<Trip>>(lstTripsAsString).ToList();
+                var vm = new TripsIndexViewModel
+                {
+                    Trips = JsonConvert.DeserializeObject<IList<Trip>>(lstTripsAsString).ToList()
+                };
 
                 return View(vm);
             }
